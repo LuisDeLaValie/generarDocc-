@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "h5ZMTFRBUb8Pq1FdSJsoBwCcQOIwGklSWICuwp5UVBXUoX5KW8G7ZQxVv1NCC87fzKzS8BqOON4tfgYrnBKxcw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TDTx\\Documents\\generarDoc\\generarDoc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TDTx\\.nuget\\packages\\microsoft.office.interop.word\\15.0.4797.1004\\microsoft.office.interop.word.15.0.4797.1004.nupkg.sha512"
+  ],
+  "logs": []
+}

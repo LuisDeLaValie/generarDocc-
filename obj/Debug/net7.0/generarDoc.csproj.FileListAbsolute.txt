@@ -1,0 +1,17 @@
+C:\Users\TDTx\Documents\generarDoc\bin\Debug\net7.0\generarDoc.exe
+C:\Users\TDTx\Documents\generarDoc\bin\Debug\net7.0\generarDoc.deps.json
+C:\Users\TDTx\Documents\generarDoc\bin\Debug\net7.0\generarDoc.runtimeconfig.json
+C:\Users\TDTx\Documents\generarDoc\bin\Debug\net7.0\generarDoc.dll
+C:\Users\TDTx\Documents\generarDoc\bin\Debug\net7.0\generarDoc.pdb
+C:\Users\TDTx\Documents\generarDoc\bin\Debug\net7.0\Microsoft.Office.Interop.Word.dll
+C:\Users\TDTx\Documents\generarDoc\obj\Debug\net7.0\generarDoc.csproj.AssemblyReference.cache
+C:\Users\TDTx\Documents\generarDoc\obj\Debug\net7.0\generarDoc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TDTx\Documents\generarDoc\obj\Debug\net7.0\generarDoc.AssemblyInfoInputs.cache
+C:\Users\TDTx\Documents\generarDoc\obj\Debug\net7.0\generarDoc.AssemblyInfo.cs
+C:\Users\TDTx\Documents\generarDoc\obj\Debug\net7.0\generarDoc.csproj.CoreCompileInputs.cache
+C:\Users\TDTx\Documents\generarDoc\obj\Debug\net7.0\generarDoc.csproj.CopyComplete
+C:\Users\TDTx\Documents\generarDoc\obj\Debug\net7.0\generarDoc.dll
+C:\Users\TDTx\Documents\generarDoc\obj\Debug\net7.0\refint\generarDoc.dll
+C:\Users\TDTx\Documents\generarDoc\obj\Debug\net7.0\generarDoc.pdb
+C:\Users\TDTx\Documents\generarDoc\obj\Debug\net7.0\generarDoc.genruntimeconfig.cache
+C:\Users\TDTx\Documents\generarDoc\obj\Debug\net7.0\ref\generarDoc.dll

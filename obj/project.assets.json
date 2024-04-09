@@ -1,0 +1,98 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "Microsoft.Office.Interop.Word/15.0.4797.1004": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Office.Interop.Word.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Office.Interop.Word.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.Office.Interop.Word/15.0.4797.1004": {
+      "sha512": "lavTOrMGK/o/t3+gGr7JuVrL8XDdnS0DwPLcYv/StOiysXO4L0C36IXTVtEJo1Mh9Aoxo9a8dgGcPi+faTlv0g==",
+      "type": "package",
+      "path": "microsoft.office.interop.word/15.0.4797.1004",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net20/Microsoft.Office.Interop.Word.dll",
+        "lib/netstandard2.0/Microsoft.Office.Interop.Word.dll",
+        "microsoft.office.interop.word.15.0.4797.1004.nupkg.sha512",
+        "microsoft.office.interop.word.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Microsoft.Office.Interop.Word >= 15.0.4797.1004"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\TDTx\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\TDTx\\Documents\\generarDoc\\generarDoc.csproj",
+      "projectName": "generarDoc",
+      "projectPath": "C:\\Users\\TDTx\\Documents\\generarDoc\\generarDoc.csproj",
+      "packagesPath": "C:\\Users\\TDTx\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\TDTx\\Documents\\generarDoc\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\TDTx\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "dependencies": {
+          "Microsoft.Office.Interop.Word": {
+            "target": "Package",
+            "version": "[15.0.4797.1004, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.407\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
